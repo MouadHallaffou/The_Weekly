@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MouadHallaffou/the-weekly/actions"><img src="https://github.com/MouadHallaffou/the-weekly/workflows/tests/badge.svg" alt="Build Status"></a>
+<!--   <a href="https://github.com/MouadHallaffou/the-weekly/actions"><img src="https://github.com/MouadHallaffou/the-weekly/workflows/tests/badge.svg" alt="Build Status"></a> -->
   <a href="https://packagist.org/packages/MouadHallaffou/the-weekly"><img src="https://img.shields.io/packagist/dt/MouadHallaffou/the-weekly" alt="Total Downloads"></a>
   <a href="https://packagist.org/packages/MouadHallaffou/the-weekly"><img src="https://img.shields.io/packagist/v/MouadHallaffou/the-weekly" alt="Latest Stable Version"></a>
   <a href="https://packagist.org/packages/MouadHallaffou/the-weekly"><img src="https://img.shields.io/packagist/l/MouadHallaffou/the-weekly" alt="License"></a>
