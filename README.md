@@ -1,8 +1,3 @@
-Voici un fichier `README.md` professionnel pour votre projet **The Weekly**, inspiré du style de Laravel. Ce fichier décrit le projet, ses fonctionnalités, les technologies utilisées, et fournit des instructions pour l'installation et l'utilisation.
-
----
-
-```markdown
 <p align="center">
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
@@ -157,7 +152,7 @@ Les contributions sont les bienvenues ! Pour contribuer à **The Weekly**, suive
 
 ## Auteur
 
-- **Mouad Hallaffou** - Développeur principal - [Votre GitHub](https://github.com/MouadHallaffou)
+- **Mouad Hallaffou** - Développeur principal - [GitHub](https://github.com/MouadHallaffou)
 
 ---
 
